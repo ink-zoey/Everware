@@ -3,3 +3,4 @@
 /bin
 *.editorconfig
 *.cache
+*.user

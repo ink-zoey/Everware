@@ -2,3 +2,4 @@ displayName = Everware
 author = ENNWAY
 version = 0.2.5.1
 modReferences = Daybreak
+buildIgnore = lib\*
